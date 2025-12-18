@@ -280,9 +280,8 @@ spin-aip-singularity-comp-sb.model_activation.dataste_model_activation_timewindo
 
 ## 👥 Contacto
 
-- **Owner**: Data Science - Activación
-- **Proyecto**: SPIN Activación 30d
-- **Slack**: #ds-activation
+- **Owner**: Fernando Aguilar
+- **Proyecto**: SPIN 5 trx in 30d
 
 ---
 
