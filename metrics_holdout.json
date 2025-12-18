@@ -1,0 +1,12 @@
+{
+  "model_name": "LightGBM",
+  "n_users": 75224,
+  "positive_rate": 0.7121,
+  "AP": 0.9858,
+  "AUC": 0.9667,
+  "Brier": 0.0706,
+  "lift_top_1pct": 1.4038,
+  "lift_top_5pct": 1.4042,
+  "lift_top_10pct": 1.404,
+  "lift_top_20pct": 1.4033
+}
